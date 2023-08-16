@@ -1,1 +1,1 @@
-# AccountGenerator
+Write an application that prompts for and reads the user's first name and last name (separately) using a Scanner. Then print a string composed of the first letterof the user's first name, followed by the first five characters of the user's last name, followed by a random number in the range of 10 to 99. All letters should be converted to lowercase before being displayed. Assume that the lastname is at least five letters long.
